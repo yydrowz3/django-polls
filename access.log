@@ -1,0 +1,24 @@
+2021-09-17 13:34:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2021-09-17 13:35:56 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2021-09-17 13:36:41 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2021-09-17 16:36:54 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2021-09-17 16:37:23 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2021-09-17 16:37:27 basehttp.log_message: "GET / HTTP/1.1" 200 11864
+2021-09-17 16:37:28 basehttp.log_message: "GET / HTTP/1.1" 200 11864
+2021-09-17 16:37:29 basehttp.log_message: "GET /teachers/?sno=1 HTTP/1.1" 200 12404
+2021-09-17 16:37:31 basehttp.log_message: "GET / HTTP/1.1" 200 11863
+2021-09-17 16:37:31 basehttp.log_message: "GET /teachers/?sno=3 HTTP/1.1" 200 11615
+2021-09-17 16:37:33 basehttp.log_message: "GET / HTTP/1.1" 200 11863
+2021-09-17 16:37:33 basehttp.log_message: "GET /teachers/?sno=4 HTTP/1.1" 200 11612
+2021-09-17 16:37:34 basehttp.log_message: "GET / HTTP/1.1" 200 11863
+2021-09-17 16:37:38 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=SQLPanel HTTP/1.1" 200 47931
+2021-09-17 16:37:42 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=RequestPanel HTTP/1.1" 200 2009
+2021-09-17 16:37:44 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=HeadersPanel HTTP/1.1" 200 3959
+2021-09-17 16:37:45 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=SettingsPanel HTTP/1.1" 200 27389
+2021-09-17 16:37:46 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=VersionsPanel HTTP/1.1" 200 620
+2021-09-17 16:37:47 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=HistoryPanel HTTP/1.1" 200 13199
+2021-09-17 16:37:47 basehttp.log_message: "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 1915
+2021-09-17 16:37:54 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=LoggingPanel HTTP/1.1" 200 647
+2021-09-17 16:37:55 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=SignalsPanel HTTP/1.1" 200 2156
+2021-09-17 16:37:57 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=CachePanel HTTP/1.1" 200 1353
+2021-09-17 16:37:58 basehttp.log_message: "GET /__debug__/render_panel/?store_id=c8df4991e4d2433f8203b292e65041db&panel_id=TemplatesPanel HTTP/1.1" 200 5173
